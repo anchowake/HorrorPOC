@@ -5,9 +5,9 @@
 ![Asset Stack: Ai Generation, Megascans & Metahumans](https://img.shields.io/badge/Asset%20Stack-AI%20Generation,%20Megascans%20&%20Metahumans-red?style=for-the-badge) 
 
 
-# Incident #202X - Horror Game POC
+# Apartment Unveiled (Incident #23) - Horror Game POC
 
-"Incident #202X" is a small horror game created as a learning project to exercise various game development skills, including level design, puzzle design, game loop design, and game design principles. Developed using Unreal Engine, the game incorporates AI Generation, MetaHumans and Megascans to enhance the visual experience. It serves as a platform to showcase the developer's growing expertise and passion for creating immersive gaming experiences.
+"Apartment Unveiled (Incident #23)" is a small horror game created as a learning project to exercise various game development skills, including level design, puzzle design, game loop design, and game design principles. Developed using Unreal Engine, the game incorporates AI Generation, MetaHumans, and Megascans to enhance the visual experience. It serves as a platform to showcase the developer's growing expertise and passion for creating immersive gaming experiences.
 
 ## Setting
 The game takes place in a haunting apartment where players must thoroughly explore and interact with various objects to unravel intricate puzzles. By attentively observing the environment, players can uncover valuable hints that will aid them in overcoming the challenges ahead.
